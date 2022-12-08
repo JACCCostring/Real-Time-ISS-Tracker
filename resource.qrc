@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>satellite.png</file>
+        <file>satellite2.jpeg</file>
+        <file>satellite3.png</file>
+        <file>menuIcon.png</file>
+    </qresource>
+    <qresource prefix="/SoundEffect">
+        <file>effectSatelliteMoving.wav</file>
+    </qresource>
+</RCC>
